@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DEMO Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:bdb4290_Experiment_2 Debug,org.eclipse.launchbar.core.descriptorType.default\:bdb4290_Experiment5.elf,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Exercise12 Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DEMO\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DEMO\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Experiment5\ Debug/activeLaunchTarget=null\:---
+org.eclipse.launchbar.core.descriptorType.default\:bdb4290_Experiment5.elf/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:bdb4290_Experiment5.elf/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

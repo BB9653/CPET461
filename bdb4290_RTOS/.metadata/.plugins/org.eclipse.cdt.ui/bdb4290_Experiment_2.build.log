@@ -1,0 +1,10 @@
+20:50:30 **** Incremental Build of configuration Debug for project bdb4290_Experiment_2 ****
+make -j20 all 
+arm-none-eabi-size   bdb4290_Experiment_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25688	     24	  18952	  44664	   ae78	bdb4290_Experiment_2.elf
+Finished building: default.size.stdout
+ 
+
+20:50:30 Build Finished. 0 errors, 0 warnings. (took 579ms)
+

@@ -1,0 +1,10 @@
+17:09:09 **** Incremental Build of configuration Debug for project Experiment10 ****
+make -j20 all 
+arm-none-eabi-size   Experiment10.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23124	     28	  18252	  41404	   a1bc	Experiment10.elf
+Finished building: default.size.stdout
+ 
+
+17:09:10 Build Finished. 0 errors, 0 warnings. (took 576ms)
+
